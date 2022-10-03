@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel Oyebamiji
+- 👋 Hi, I’m Emmanuel Oyèbámijí
 - 👀 I’m interested in DevOps (Azure and AWS), DevSecOps, Network Automation, Cloud Security with AWS, CyberSecurity and Python
 - 🌱 I’m currently learning Python, Javascript and DevOps practices
 - 💞️ I’m looking to collaborate on DevOps, Automation, Pentest, Cloud Security, Python and Javascript
