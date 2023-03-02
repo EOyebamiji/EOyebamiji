@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, Javascript and DevOps practices
 - 💞️ I’m looking to collaborate on DevOps, Automation, Pentest, Cloud Security, Python and Javascript
 - 📫 How to reach me [Emmanuel Oyèbámijí](https://twitter.com/EOyebamiji_)
+- Peace 
 
 <!---
 EOyebamiji/EOyebamiji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
