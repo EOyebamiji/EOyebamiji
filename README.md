@@ -7,7 +7,7 @@ I am a Network Engineer, Cloud Engineer who currently works as a DevOps Engineer
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm building obsesssion with cloud and DevOps
+- 💡 Fun fact: I'm building obsession with cloud and DevOps
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 🌱 I’m currently working on an [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) hosted by [Andrew Brown](https://www.linkedin.com/in/andrew-wc-brown/).
 - 👀 I’m interested in DevOps (Azure and AWS), DevSecOps, Automation, Security and IoT.
