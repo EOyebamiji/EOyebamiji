@@ -8,10 +8,10 @@ I am a Network Engineer and cloud Engineer currently working as a DevOps Enginee
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm building an obsession with cloud and DevOps
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I have on projects involving languages and frameworks such as Phyton (boto, boto3), Ruby, JavaScript (Reactjs), and GoLang.
 - 👀 I’m interested in DevOps (Azure and AWS), DevSecOps, Automation, Security and IoT.
 - 💞️ I’m looking to collaborate on open source, hackathons, cloud and DevOps projects.
-- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer
 - 📫 You can [view my resume](#) and contact me by emailing [Emmanuel Oyebamiji](mailto:emmanueloluwatosin56@gmail.com)
 
 ---
